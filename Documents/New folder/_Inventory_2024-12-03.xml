@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory xmlns="http://www.demandware.com/xml/impex/inventory/2007-05-31">
+  <inventory-list>
+    <header list-id="slumberland-06-inventory">
+      <default-instock>false</default-instock>
+      <description>Product Inventory</description>
+    </header>
+    <records>
+      <record product-id="GMG001">
+        <allocation>1</allocation>
+        <allocation-timestamp>2024-01-15T00:00:13.000Z</allocation-timestamp>
+      </record>
+      <record product-id="SGG001">
+        <allocation>1</allocation>
+        <allocation-timestamp>2024-01-15T00:00:13.000Z</allocation-timestamp>
+      </record>
+      <record product-id="SSG001">
+        <allocation>1</allocation>
+        <allocation-timestamp>2024-01-15T00:00:13.000Z</allocation-timestamp>
+      </record>
+    </records>
+  </inventory-list>
+</inventory>
