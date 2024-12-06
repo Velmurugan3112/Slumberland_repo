@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="http://www.demandware.com/xml/impex/catalog/2006-10-31" catalog-id="master-catalog-slumberland" xsi:noNamespaceSchemaLocation="catalog.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <product product-id="GMG001">
+   <custom-attributes>
+       <custom-attribute attribute-id="availability">
+           <value>Limited Stock</value>
+       </custom-attribute>
+   </custom-attributes>
+   </product>
+
+   <product product-id="SGG001">
+   <custom-attributes>
+       <custom-attribute attribute-id="availability">
+           <value>Limited Stock</value>
+       </custom-attribute>
+   </custom-attributes>
+   </product>
+
+   <product product-id="SSG001">
+   <custom-attributes>
+       <custom-attribute attribute-id="availability">
+           <value>On Order</value>
+       </custom-attribute>
+   </custom-attributes>
+   </product>
+
+   <product product-id="KK001">
+   <custom-attributes>
+       <custom-attribute attribute-id="availability">
+           <value>Available</value>
+       </custom-attribute>
+   </custom-attributes>
+   </product>
+
+</catalog>
